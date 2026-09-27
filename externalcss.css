@@ -1,0 +1,17 @@
+h1{
+    color: rgb(45, 14, 186);
+    text-align: center;
+    font-size: 50px;
+ }
+ p {
+    color:rgb(1, 25, 29);
+    font-size: 30px;
+    line-height: 1.5;
+
+ }
+ button{
+          background-color: rgb(233, 153, 14);
+          color: rgb(240, 255, 240);
+          padding: 10px;
+          
+ }
